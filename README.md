@@ -1,4 +1,4 @@
-# PostgreSQL Linux Setup (Ubuntu 22.04 LTS)
+# 🐘🐧PostgreSQL Linux Setup (Ubuntu 22.04 LTS)
 
 ## Objective
 Explain the installation and basic setup of PostgreSQL on Ubuntu 22.04 LTS.
