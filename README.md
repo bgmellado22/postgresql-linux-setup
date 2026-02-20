@@ -1,10 +1,10 @@
-# 🐘🐧PostgreSQL Linux Setup (Ubuntu 22.04 LTS)
+# 🐘🐧PostgreSQL Linux Setup (Ubuntu Server 22.04 LTS)
 
 ## Objective
-Explain the installation and basic setup of PostgreSQL on Ubuntu 22.04 LTS.
+Explain the installation and basic setup of PostgreSQL on Ubuntu Server 22.04 LTS.
 
 ## Environment
-- OS: Ubuntu 22.04 LTS
+- OS: Ubuntu Server 22.04 LTS
 - Virtualization: Oracle VirtualBox
 - PostgreSQL version: 16.11
 
@@ -16,13 +16,6 @@ Explain the installation and basic setup of PostgreSQL on Ubuntu 22.04 LTS.
 ## Basic Usage
 - Access with postgres user
 - psql basic commands
-
-## Directory Structure
-postgresql-linux-setup/
-- README.md
-- notes.md
-- docs/
-- screenshots/
 
 ## Basic Configuration
 
