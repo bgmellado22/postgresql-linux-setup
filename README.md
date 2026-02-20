@@ -31,14 +31,18 @@ Explain the installation and basic setup of PostgreSQL on Ubuntu Server 22.04 LT
 - Restore tested succesfully
 
 ## Project Structure
+
+```text
+.
 ├── docs
-│   └── installation.md
+│   └── installation.md
 ├── LICENSE
 ├── notes.md
 ├── README.md
 └── screenshots
     ├── logs.png
     └── log_statement.png
+```
 
 ## Conclusions
 This repository documents the basic PostgreSQL setup on Linux. 
