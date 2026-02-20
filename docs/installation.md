@@ -1,10 +1,10 @@
-# PostgreSQL Installation on Ubuntu 22.04 LTS
+# PostgreSQL Installation on Ubuntu Server 22.04 LTS
 
-This document describes the installation and initial verification of PostgreSQL on Ubuntu 22.04 LTS.
+This document describes the installation and initial verification of PostgreSQL on Ubuntu Server 22.04 LTS.
 
 ## Environment
 
-- Operating System: Ubuntu 22.04 LTS
+- Operating System: Ubuntu Server 22.04 LTS
 - Virtualization: Oracle VirtualBox
 - PostgreSQL Version: 16
 - User: bastihan
@@ -83,4 +83,5 @@ To exit the PostgreSQL shell and return to the normal user:
 
 ```bash
 exit
+
 ```
